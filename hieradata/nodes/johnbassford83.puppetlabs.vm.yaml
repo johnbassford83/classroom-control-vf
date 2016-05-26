@@ -1,1 +1,2 @@
-Message: "This is a message from the node yaml file."
+---
+Message: This is a message from the node yaml file.
